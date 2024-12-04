@@ -1,0 +1,55 @@
+.titleBanner{
+    font-size: 40px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+#banner1{
+    border-radius: 50%;
+    width: 500px;
+}
+#banner1:hover{
+    border-width: 5px;
+    border-style: outset;
+    border-color: #432fa3;
+}
+table, tr, td, th{
+    border-color: rgb(61, 7, 89);
+    border-style: inset;
+    border-width: 4px;
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+    background-color: #c98aeb;
+}
+td{
+    height: 100px;
+}
+table, tr, td, tr{
+    padding: 10px;
+}
+th, tr{
+    padding: 10px;
+}
+.title{
+    height: 10px;
+}
+.tablepictures{
+    width: 400px;
+}
+.column1{
+    width: 10%;
+}
+.column2{
+    width: 25%;
+}
+.column3{
+    width: 65%;
+}
+td:hover{
+    background-color: #3d0759;
+    color: white;
+}
+th:hover{
+    background-color: #3d0759;
+    color: white;
+}
